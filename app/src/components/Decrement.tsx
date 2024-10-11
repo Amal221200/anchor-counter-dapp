@@ -39,7 +39,7 @@ const Decrement = () => {
     }
 
     return (
-        <button className="rounded bg-[#111] px-4 py-2 disabled:opacity-70" type="button" onClick={handleClick} disabled={!publicKey || isLoading}>
+        <button className="button" type="button" onClick={handleClick} disabled={!publicKey || isLoading}>
             {isLoading ? "Decrementing..." : "Decrement"}
         </button>
     )

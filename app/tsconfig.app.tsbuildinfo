@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/counterstate.tsx","./src/components/decrement.tsx","./src/components/increment.tsx","./src/solana/walletprovider.tsx","./src/solana/idl.ts","./src/solana/setup.ts"],"version":"5.6.3"}

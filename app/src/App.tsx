@@ -8,9 +8,9 @@ const App = () => {
   return (
     <div>
       <WalletMultiButton />
-      <h1>Hello World</h1>
+      <h1>Anchor Counter Dapp</h1>
       <CounterState />
-      <div className="flex gap-x-2">
+      <div className="buttons">
         <Increment />
         <Decrement />
       </div>
